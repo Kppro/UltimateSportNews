@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UltimateSportNews</string>
+    <string name="generic_error_msg">Something went wrong !</string>
+    <string name="title_page_news">FEATURED</string>
+    <string name="story_author">by %s</string>
+    <string name="video_views">%s views</string>
+</resources>
